@@ -1,6 +1,7 @@
 # git-practice
 
 Abstract : This project is to practice git.
+Now, I am duing unstage practice
 [See Demo](https://www.google.com/)
 
 ## Vim modes
